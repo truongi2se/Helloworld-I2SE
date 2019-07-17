@@ -19,13 +19,8 @@ public class Helloworld {
         System.out.println("Hello world");
         System.out.println("xyz");
         System.out.println("abc");
-<<<<<<< HEAD
-        System.out.println("Lam");
-        System.out.println("Lam");
-=======
         System.out.println("Truong");
-        System.out.println("Truong");
->>>>>>> dc36185f9229a4dd137fdfe00fbea99257fafa4b
+        System.out.println("Lam");
         System.out.println("Cuong");
     }
     
