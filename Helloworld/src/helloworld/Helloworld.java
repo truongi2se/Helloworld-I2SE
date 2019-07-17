@@ -20,7 +20,7 @@ public class Helloworld {
         System.out.println("xyz");
         System.out.println("abc");
         System.out.println("Truong");
-        System.out.println("Lam");
+        System.out.println("Truong");
         System.out.println("Truong");
     }
     
