@@ -17,11 +17,7 @@ public class Helloworld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world");
-<<<<<<< HEAD
-        System.out.println("abc");
-=======
         System.out.println("xyz");
->>>>>>> 6a83e960b4ee0be65889080d3ade2ace76addcd7
     }
     
 }
