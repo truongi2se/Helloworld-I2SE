@@ -17,7 +17,7 @@ public class Helloworld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world");
-        System.out.println("xyz");
+        System.out.println("Lam");
         System.out.println("abc");
         System.out.println("Truong");
         System.out.println("Lam");
